@@ -18,9 +18,9 @@ Use this file to record group meetings, decisions, and progress on the college s
 <!-- Copy the template above and add the newest entry here. -->
 ### 2026-10-06 — Feedback
 
-- **Participants:*Abhinav,Brayden,Chenglin*
-- **What we worked on:*We read over the feedback from the topic we chose *
-- **Decisions made:*read of them adressed anything that needed to be said such as the year of the data we're looking at should come from 24-25 school year*
+- **Participants:*Abhinav,Brayden,Chenglin:*
+- **What we worked on:*We read over the feedback from the topic we chose:*
+- **Decisions made:*Read through them and addressed anything that needed to be said, such as that the year of the data we're looking at should come from 24-25 school year.:*
 - **Next steps:*wait for further instruction*
   - [ ] Task — owner — target date
 - **Links or notes:**
