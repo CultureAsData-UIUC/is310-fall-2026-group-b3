@@ -24,3 +24,12 @@ Use this file to record group meetings, decisions, and progress on the college s
 - **Next steps:*wait for further instruction**
   - [ ] Task — owner — target date
 - **Links or notes:**
+
+- ### 2026-10-27 — Brief topic
+
+- **Participants:**
+- **What we worked on:** We discussed are plans on milestone 2. 
+- **Decisions made:**
+- **Next steps:**
+  - [ ] Task — owner — target date
+- **Links or notes:**
