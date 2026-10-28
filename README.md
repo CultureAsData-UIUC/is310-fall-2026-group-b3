@@ -40,7 +40,7 @@ Links:
 - https://www.nfl.com/draft/tracker
 - https://overthecap.com/draft
 
-### Chinglin
+### Chenglin
 
 For my project, I want to study guarantee games, where one school pays another school to play them. I will track the teams, date, FBS or FCS status, payout amount, final score and score difference. CollegeFootballData will give me game information, while FBSchedules and Front Office Sports can help with payout amounts and contracts.
 
@@ -52,6 +52,7 @@ Links:
 - https://fbschedules.com/
 - https://frontofficesports.com/article/college-footballs-guarantee-games-high-risks-and-higher-payouts/
 - https://fbschedules.com/purdue-adds-southern-illinois-to-2025-football-schedule/
+Milestone 2: [Initial Custom Dataset and Audit Plan](Chenglin/)
 
 ## Scholarly Context
 
