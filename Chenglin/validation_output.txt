@@ -1,0 +1,8 @@
+Total records: 30
+Records with contract amount: 2
+Records with reported amount: 29
+Records with actual-payment evidence: 0
+Records with no payment amount yet: 0
+Score-difference problems: 0
+Rows outside FBS-home/FCS-away scope: 0
+Duplicate game records: 0
