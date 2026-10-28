@@ -10,7 +10,7 @@ This project studies college football guarantee games, especially the financial 
 
 In response to feedback on Milestone 1, I narrowed the initial sample to the **2024 season** and to games in which an **FBS team hosted an FCS team**. One row represents one game. This narrower scope makes it possible to check the sporting record and payout evidence more carefully instead of building a larger dataset with uneven documentation.
 
-The current initial dataset contains **30 manually checked records**. The project target remains approximately 50–100 records. I have not expanded to 50 yet because verifying what a payout figure actually represents is more time-consuming than simply collecting schedules and scores. For the next version, I will continue adding games using the same inclusion rules and will prioritize source quality over filling rows quickly.
+The current initial dataset contains **50 manually checked records**, meeting the lower end of the assignment target of approximately 50–100 records. I stopped the initial version at 50 so that each added game could still be checked against a payout source and a game record rather than expanding the sample with uneven evidence. Later versions can continue toward 75–100 records using the same inclusion rules.
 
 ## Definition and Inclusion Rules
 
@@ -93,7 +93,7 @@ The file `check_dataset.py` provides a reproducible computational check of the i
 - checks that every row fits the FBS-home/FCS-away scope; and
 - detects duplicate game records.
 
-For the current 30-row version, the script reports **0 score-difference errors, 0 records outside the defined subdivision scope, and 0 duplicate records**. It also makes the source limitation visible: most current payout figures are reported amounts, while only a small number have been matched to contract-based evidence and none yet contain independent evidence of a completed money transfer.
+For the current 50-row version, the script reports **0 score-difference errors, 0 records outside the defined subdivision scope, and 0 duplicate records**. It also makes the source limitation visible: most current payout figures are reported amounts, while only a small number have been matched to contract-based evidence and none yet contain independent evidence of a completed money transfer.
 
 Computation therefore supports consistency checking, but it does not decide what a financial source means. I still manually review the evidence before deciding whether a number belongs in `contract_amount_usd`, `reported_amount_usd`, or another field.
 
@@ -133,7 +133,7 @@ The project changed from the broader idea in Milestone 1 by narrowing the initia
 
 My next steps are to:
 
-1. expand the sample from 30 records toward 50–100 using the same inclusion rules;
+1. expand the sample beyond the current 50 records toward 75–100 using the same inclusion rules;
 2. replace reported payout figures with contract-based evidence when accessible without deleting the original reported value;
 3. collect contract dates and cancellation terms where the source supports them;
 4. use the CFBD API to retrieve the corresponding standard game records computationally;
