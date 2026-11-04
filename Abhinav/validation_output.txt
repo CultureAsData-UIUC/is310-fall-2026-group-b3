@@ -1,0 +1,23 @@
+Total records: 86
+Big Ten schools in this sample: 13
+Years in this sample: 2020-2025
+Full project period: 2015-2025
+Athletic department expense records: 24
+Football spending total records: 26
+Football coaching pay records: 36
+Records with a dollar amount: 85
+Records missing a dollar amount: 1
+Missing amount IDs: ABHI-055
+Records with a source link: 86
+Records with a limitation note: 86
+Duplicate school/year/category records: 0
+Other data problems: 0
+Rows compared in source_checks.csv: 50
+Rows still needing an individual source check: 36
+Differences in source checks: 0
+University of Illinois Urbana-Champaign: 12 FY2024 categories, 100.00% total share
+Purdue University: 12 FY2024 categories, 100.00% total share
+
+These checks look for CSV errors and compare recorded numbers with public tables.
+They do not prove the university's original financial reports are correct.
+Football totals overlap other spending categories, and NIL estimates are different from expenses.
