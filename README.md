@@ -26,7 +26,7 @@ Links:
 
 - https://knightnewhousedata.org/
 - https://thenilstandard.com/football/teams/texas
-- https://thesideline.co/nil-tracker
+- Milestone 2: [Initial Dataset and Athletic Spending Audit](Abhinav/milestone2.md)
 
 ### Vedant
 
