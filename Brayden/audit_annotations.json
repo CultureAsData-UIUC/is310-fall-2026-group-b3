@@ -1,0 +1,1468 @@
+[
+  {
+    "school": "Illinois",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/145637",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-illinois-urbana-champaign"
+  },
+  {
+    "school": "Illinois",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/145637",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-illinois-urbana-champaign"
+  },
+  {
+    "school": "Illinois",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/145637",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-illinois-urbana-champaign"
+  },
+  {
+    "school": "Illinois",
+    "measure": "football_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/145637",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-illinois-urbana-champaign"
+  },
+  {
+    "school": "Indiana",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/151351",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/indiana-university-bloomington"
+  },
+  {
+    "school": "Indiana",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/151351",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/indiana-university-bloomington"
+  },
+  {
+    "school": "Indiana",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/151351",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/indiana-university-bloomington"
+  },
+  {
+    "school": "Indiana",
+    "measure": "football_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/151351",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/indiana-university-bloomington"
+  },
+  {
+    "school": "Iowa",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Athletically Related Student Aid",
+        "text": "Includes Alston awards."
+      },
+      {
+        "screen": "Total Expenses by Team",
+        "text": "Per instruction, debt service for facilities and one-time capital project expenditures are not included in EADA departmental expenses reporting."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/153658",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-iowa"
+  },
+  {
+    "school": "Iowa",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Athletically Related Student Aid",
+        "text": "Includes Alston awards."
+      },
+      {
+        "screen": "Total Expenses by Team",
+        "text": "Per instruction, debt service for facilities and one-time capital project expenditures are not included in EADA departmental expenses reporting."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/153658",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-iowa"
+  },
+  {
+    "school": "Iowa",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Athletically Related Student Aid",
+        "text": "Includes Alston awards."
+      },
+      {
+        "screen": "Total Expenses by Team",
+        "text": "Per instruction, debt service for facilities and one-time capital project expenditures are not included in EADA departmental expenses reporting."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/153658",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-iowa"
+  },
+  {
+    "school": "Iowa",
+    "measure": "football_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Athletically Related Student Aid",
+        "text": "Includes Alston awards."
+      },
+      {
+        "screen": "Total Expenses by Team",
+        "text": "Per instruction, debt service for facilities and one-time capital project expenditures are not included in EADA departmental expenses reporting."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/153658",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-iowa"
+  },
+  {
+    "school": "Maryland",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Athletically Related Student Aid",
+        "text": "$6,428,488 of total is in the form of tuition waivers: $3,502,388 - Men and $2,926,100 - Women"
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/163286",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-maryland-college-park"
+  },
+  {
+    "school": "Maryland",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Athletically Related Student Aid",
+        "text": "$6,428,488 of total is in the form of tuition waivers: $3,502,388 - Men and $2,926,100 - Women"
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/163286",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-maryland-college-park"
+  },
+  {
+    "school": "Maryland",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Athletically Related Student Aid",
+        "text": "$6,428,488 of total is in the form of tuition waivers: $3,502,388 - Men and $2,926,100 - Women"
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/163286",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-maryland-college-park"
+  },
+  {
+    "school": "Maryland",
+    "measure": "football_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Athletically Related Student Aid",
+        "text": "$6,428,488 of total is in the form of tuition waivers: $3,502,388 - Men and $2,926,100 - Women"
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/163286",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-maryland-college-park"
+  },
+  {
+    "school": "Michigan",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/170976",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-michigan"
+  },
+  {
+    "school": "Michigan",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/170976",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-michigan"
+  },
+  {
+    "school": "Michigan",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/170976",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-michigan"
+  },
+  {
+    "school": "Michigan",
+    "measure": "football_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/170976",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-michigan"
+  },
+  {
+    "school": "Michigan State",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Total Revenues by Team",
+        "text": "Due to increased expenses, and decreased revenues in some categories, reserves were used to cover the deficit of $8.0 million calculated when using current year activity only. To show revenues at least equal to expenses, per EADA guidelines, the net loss for each sport was added back as revenue."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/171100",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/michigan-state-university"
+  },
+  {
+    "school": "Michigan State",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Total Revenues by Team",
+        "text": "Due to increased expenses, and decreased revenues in some categories, reserves were used to cover the deficit of $8.0 million calculated when using current year activity only. To show revenues at least equal to expenses, per EADA guidelines, the net loss for each sport was added back as revenue."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/171100",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/michigan-state-university"
+  },
+  {
+    "school": "Michigan State",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Total Revenues by Team",
+        "text": "Due to increased expenses, and decreased revenues in some categories, reserves were used to cover the deficit of $8.0 million calculated when using current year activity only. To show revenues at least equal to expenses, per EADA guidelines, the net loss for each sport was added back as revenue."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/171100",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/michigan-state-university"
+  },
+  {
+    "school": "Michigan State",
+    "measure": "football_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Total Revenues by Team",
+        "text": "Due to increased expenses, and decreased revenues in some categories, reserves were used to cover the deficit of $8.0 million calculated when using current year activity only. To show revenues at least equal to expenses, per EADA guidelines, the net loss for each sport was added back as revenue."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/171100",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/michigan-state-university"
+  },
+  {
+    "school": "Minnesota",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Total Expenses by Team",
+        "text": "Debt Service and Indirect Expense are not included in EADA expense reporting."
+      },
+      {
+        "screen": "Total Revenues by Team",
+        "text": "Revenue for Debt Service and Indirect Revenue are not included in EADA revenue reporting."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/174066",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-minnesota-twin-cities"
+  },
+  {
+    "school": "Minnesota",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Total Expenses by Team",
+        "text": "Debt Service and Indirect Expense are not included in EADA expense reporting."
+      },
+      {
+        "screen": "Total Revenues by Team",
+        "text": "Revenue for Debt Service and Indirect Revenue are not included in EADA revenue reporting."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/174066",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-minnesota-twin-cities"
+  },
+  {
+    "school": "Minnesota",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Total Expenses by Team",
+        "text": "Debt Service and Indirect Expense are not included in EADA expense reporting."
+      },
+      {
+        "screen": "Total Revenues by Team",
+        "text": "Revenue for Debt Service and Indirect Revenue are not included in EADA revenue reporting."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/174066",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-minnesota-twin-cities"
+  },
+  {
+    "school": "Minnesota",
+    "measure": "football_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Total Expenses by Team",
+        "text": "Debt Service and Indirect Expense are not included in EADA expense reporting."
+      },
+      {
+        "screen": "Total Revenues by Team",
+        "text": "Revenue for Debt Service and Indirect Revenue are not included in EADA revenue reporting."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/174066",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-minnesota-twin-cities"
+  },
+  {
+    "school": "Nebraska",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/181464",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-nebraska-lincoln"
+  },
+  {
+    "school": "Nebraska",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/181464",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-nebraska-lincoln"
+  },
+  {
+    "school": "Nebraska",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/181464",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-nebraska-lincoln"
+  },
+  {
+    "school": "Nebraska",
+    "measure": "football_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/181464",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-nebraska-lincoln"
+  },
+  {
+    "school": "Northwestern",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Non-July–June EADA period; Knight school-specific dates have not been verified."
+    ],
+    "eada_period_start": "2024-09-01",
+    "eada_period_end": "2025-08-31",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/147767",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/northwestern-university"
+  },
+  {
+    "school": "Northwestern",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Non-July–June EADA period; Knight school-specific dates have not been verified."
+    ],
+    "eada_period_start": "2024-09-01",
+    "eada_period_end": "2025-08-31",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/147767",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/northwestern-university"
+  },
+  {
+    "school": "Northwestern",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Non-July–June EADA period; Knight school-specific dates have not been verified."
+    ],
+    "eada_period_start": "2024-09-01",
+    "eada_period_end": "2025-08-31",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/147767",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/northwestern-university"
+  },
+  {
+    "school": "Northwestern",
+    "measure": "football_expenses",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Non-July–June EADA period; Knight school-specific dates have not been verified."
+    ],
+    "eada_period_start": "2024-09-01",
+    "eada_period_end": "2025-08-31",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/147767",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/northwestern-university"
+  },
+  {
+    "school": "Ohio State",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/204796",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/ohio-state-university"
+  },
+  {
+    "school": "Ohio State",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/204796",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/ohio-state-university"
+  },
+  {
+    "school": "Ohio State",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/204796",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/ohio-state-university"
+  },
+  {
+    "school": "Ohio State",
+    "measure": "football_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/204796",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/ohio-state-university"
+  },
+  {
+    "school": "Oregon",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/209551",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-oregon"
+  },
+  {
+    "school": "Oregon",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/209551",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-oregon"
+  },
+  {
+    "school": "Oregon",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/209551",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-oregon"
+  },
+  {
+    "school": "Oregon",
+    "measure": "football_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/209551",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-oregon"
+  },
+  {
+    "school": "Penn State",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Operating (Game-Day) Expenses by Team",
+        "text": "The year-over-year increase in Men’s Team Operating Expenses is primarily due to Football’s participation in the College Football Playoff (CFP) during FY2025. The team incurred additional postseason expenses related to multiple CFP games, compared to only one bowl game in the prior year."
+      },
+      {
+        "screen": "Total Expenses by Team",
+        "text": "Grand Total Expenses does not include debt services per EADA instructions. Debt Service for FY2025 totaled $22,934,838."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/214777",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/pennsylvania-state-university"
+  },
+  {
+    "school": "Penn State",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Operating (Game-Day) Expenses by Team",
+        "text": "The year-over-year increase in Men’s Team Operating Expenses is primarily due to Football’s participation in the College Football Playoff (CFP) during FY2025. The team incurred additional postseason expenses related to multiple CFP games, compared to only one bowl game in the prior year."
+      },
+      {
+        "screen": "Total Expenses by Team",
+        "text": "Grand Total Expenses does not include debt services per EADA instructions. Debt Service for FY2025 totaled $22,934,838."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/214777",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/pennsylvania-state-university"
+  },
+  {
+    "school": "Penn State",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Operating (Game-Day) Expenses by Team",
+        "text": "The year-over-year increase in Men’s Team Operating Expenses is primarily due to Football’s participation in the College Football Playoff (CFP) during FY2025. The team incurred additional postseason expenses related to multiple CFP games, compared to only one bowl game in the prior year."
+      },
+      {
+        "screen": "Total Expenses by Team",
+        "text": "Grand Total Expenses does not include debt services per EADA instructions. Debt Service for FY2025 totaled $22,934,838."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/214777",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/pennsylvania-state-university"
+  },
+  {
+    "school": "Penn State",
+    "measure": "football_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Operating (Game-Day) Expenses by Team",
+        "text": "The year-over-year increase in Men’s Team Operating Expenses is primarily due to Football’s participation in the College Football Playoff (CFP) during FY2025. The team incurred additional postseason expenses related to multiple CFP games, compared to only one bowl game in the prior year."
+      },
+      {
+        "screen": "Total Expenses by Team",
+        "text": "Grand Total Expenses does not include debt services per EADA instructions. Debt Service for FY2025 totaled $22,934,838."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/214777",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/pennsylvania-state-university"
+  },
+  {
+    "school": "Purdue",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/243780",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/purdue-university"
+  },
+  {
+    "school": "Purdue",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/243780",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/purdue-university"
+  },
+  {
+    "school": "Purdue",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/243780",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/purdue-university"
+  },
+  {
+    "school": "Purdue",
+    "measure": "football_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/243780",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/purdue-university"
+  },
+  {
+    "school": "Rutgers",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Recruiting Expenses",
+        "text": "Decrease relative to FY24 ($600K) driven by # of private charters used for FB/MBB recruiting"
+      },
+      {
+        "screen": "Operating (Game-Day) Expenses by Team",
+        "text": "Roughly $4M increase relative to FY24 driven by Football home game operational costs and post season Bowl Game travel to Arizona (Rate Bowl)."
+      },
+      {
+        "screen": "Total Expenses by Team",
+        "text": "-In addition to the increases in HC/AC coach salaries, Student Aid, Recruiting, and Operating/Game Day expenses, remaining sport specific expense increase due to: *$5.3M in Gross Fringe Benefits *$700K in nutrition/occasional meals *$500K in game guarantee payments"
+      },
+      {
+        "screen": "Total Revenues by Team",
+        "text": "Overall increases in Revenues attributable to sports vs. FY23 due to an increase in total expenses (see previous screens' caveats)."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/186380",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/rutgers-state-university-new-jersey-new-brunswick"
+  },
+  {
+    "school": "Rutgers",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Recruiting Expenses",
+        "text": "Decrease relative to FY24 ($600K) driven by # of private charters used for FB/MBB recruiting"
+      },
+      {
+        "screen": "Operating (Game-Day) Expenses by Team",
+        "text": "Roughly $4M increase relative to FY24 driven by Football home game operational costs and post season Bowl Game travel to Arizona (Rate Bowl)."
+      },
+      {
+        "screen": "Total Expenses by Team",
+        "text": "-In addition to the increases in HC/AC coach salaries, Student Aid, Recruiting, and Operating/Game Day expenses, remaining sport specific expense increase due to: *$5.3M in Gross Fringe Benefits *$700K in nutrition/occasional meals *$500K in game guarantee payments"
+      },
+      {
+        "screen": "Total Revenues by Team",
+        "text": "Overall increases in Revenues attributable to sports vs. FY23 due to an increase in total expenses (see previous screens' caveats)."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/186380",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/rutgers-state-university-new-jersey-new-brunswick"
+  },
+  {
+    "school": "Rutgers",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Recruiting Expenses",
+        "text": "Decrease relative to FY24 ($600K) driven by # of private charters used for FB/MBB recruiting"
+      },
+      {
+        "screen": "Operating (Game-Day) Expenses by Team",
+        "text": "Roughly $4M increase relative to FY24 driven by Football home game operational costs and post season Bowl Game travel to Arizona (Rate Bowl)."
+      },
+      {
+        "screen": "Total Expenses by Team",
+        "text": "-In addition to the increases in HC/AC coach salaries, Student Aid, Recruiting, and Operating/Game Day expenses, remaining sport specific expense increase due to: *$5.3M in Gross Fringe Benefits *$700K in nutrition/occasional meals *$500K in game guarantee payments"
+      },
+      {
+        "screen": "Total Revenues by Team",
+        "text": "Overall increases in Revenues attributable to sports vs. FY23 due to an increase in total expenses (see previous screens' caveats)."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/186380",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/rutgers-state-university-new-jersey-new-brunswick"
+  },
+  {
+    "school": "Rutgers",
+    "measure": "football_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Recruiting Expenses",
+        "text": "Decrease relative to FY24 ($600K) driven by # of private charters used for FB/MBB recruiting"
+      },
+      {
+        "screen": "Operating (Game-Day) Expenses by Team",
+        "text": "Roughly $4M increase relative to FY24 driven by Football home game operational costs and post season Bowl Game travel to Arizona (Rate Bowl)."
+      },
+      {
+        "screen": "Total Expenses by Team",
+        "text": "-In addition to the increases in HC/AC coach salaries, Student Aid, Recruiting, and Operating/Game Day expenses, remaining sport specific expense increase due to: *$5.3M in Gross Fringe Benefits *$700K in nutrition/occasional meals *$500K in game guarantee payments"
+      },
+      {
+        "screen": "Total Revenues by Team",
+        "text": "Overall increases in Revenues attributable to sports vs. FY23 due to an increase in total expenses (see previous screens' caveats)."
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/186380",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/rutgers-state-university-new-jersey-new-brunswick"
+  },
+  {
+    "school": "UCLA",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Total Revenues by Team",
+        "text": "Revenue figures noted are allocated amounts per report instructions"
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/110662",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-california-los-angeles"
+  },
+  {
+    "school": "UCLA",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Total Revenues by Team",
+        "text": "Revenue figures noted are allocated amounts per report instructions"
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/110662",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-california-los-angeles"
+  },
+  {
+    "school": "UCLA",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Total Revenues by Team",
+        "text": "Revenue figures noted are allocated amounts per report instructions"
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/110662",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-california-los-angeles"
+  },
+  {
+    "school": "UCLA",
+    "measure": "football_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [
+      {
+        "screen": "Total Revenues by Team",
+        "text": "Revenue figures noted are allocated amounts per report instructions"
+      }
+    ],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/110662",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-california-los-angeles"
+  },
+  {
+    "school": "USC",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/123961",
+    "knight_source": "https://knightnewhousedata.org/fbs/pac-12/university-southern-california"
+  },
+  {
+    "school": "USC",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/123961",
+    "knight_source": "https://knightnewhousedata.org/fbs/pac-12/university-southern-california"
+  },
+  {
+    "school": "USC",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/123961",
+    "knight_source": "https://knightnewhousedata.org/fbs/pac-12/university-southern-california"
+  },
+  {
+    "school": "USC",
+    "measure": "football_expenses",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/123961",
+    "knight_source": "https://knightnewhousedata.org/fbs/pac-12/university-southern-california"
+  },
+  {
+    "school": "Washington",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/236948",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-washington"
+  },
+  {
+    "school": "Washington",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/236948",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-washington"
+  },
+  {
+    "school": "Washington",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/236948",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-washington"
+  },
+  {
+    "school": "Washington",
+    "measure": "football_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/236948",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-washington"
+  },
+  {
+    "school": "Wisconsin",
+    "measure": "total_athletic_revenue",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Revenue is not profit or evidence of a payment to athletes; exact category reconciliation remains open.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/240444",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-wisconsin-madison"
+  },
+  {
+    "school": "Wisconsin",
+    "measure": "total_athletic_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/240444",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-wisconsin-madison"
+  },
+  {
+    "school": "Wisconsin",
+    "measure": "football_revenue",
+    "comparison_decision": "no_numeric_comparison",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Selected Knight profile lacks the requested figure; leave blank rather than enter zero.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/240444",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-wisconsin-madison"
+  },
+  {
+    "school": "Wisconsin",
+    "measure": "football_expenses",
+    "comparison_decision": "contextual_comparison_only",
+    "interpretation": [
+      "EADA and NCAA MFRS are different reporting systems; a dollar difference alone does not establish error.",
+      "Football is a component of department activity; do not add it to department totals.",
+      "Year labels plausibly align, but exact Knight school-specific reporting dates remain unverified."
+    ],
+    "eada_period_start": "2024-07-01",
+    "eada_period_end": "2025-06-30",
+    "school_caveats_from_saved_response": [],
+    "authorship": "AI-assisted draft for me to review",
+    "verification_scope": "CSV checked against supplied cached responses using collector parser; original university reports not checked",
+    "eada_source": "https://ope.ed.gov/athletics/api/institution/240444",
+    "knight_source": "https://knightnewhousedata.org/fbs/big-ten/university-wisconsin-madison"
+  }
+]
