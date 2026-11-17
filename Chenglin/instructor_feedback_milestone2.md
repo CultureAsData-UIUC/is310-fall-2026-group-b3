@@ -4,8 +4,6 @@ I really like how substantially you narrowed this project after Milestone 1. Lim
 
 The most promising idea here is that a game can be represented in several different ways. A conventional sports dataset makes the schedule and result visible, while your custom data attempts to represent the financial arrangement and uncertainty behind the same event. Your distinction among a reported payout, contractual guarantee, and evidence of an actual transfer is especially important. Those categories prevent the word “payout” from flattening several different claims into one apparently certain number.
 
-I would not prioritize expanding from 50 to 75 or 100 records unless additional records become necessary for a specific comparison. Instead, focus on verifying the existing sample, developing its cultural interpretation, and completing the CollegeFootballData audit.
-
 ## Initial Custom Dataset
 
 Your documentation clearly defines a qualifying record, but it does not fully explain why these particular fifty games were selected. The `reported_amount_usd` values are ordered from $760,000 to $375,000, suggesting that the dataset may contain the first or highest-paying fifty games from the HERO Sports compilation. If so, that is a meaningful sampling decision rather than a neutral stopping point.
@@ -101,6 +99,8 @@ Your reflection is also strong. The Southern Illinois/BYU example is particularl
 I did not see an AI-use statement. If you used AI for research, code, writing, or classification, explain what it contributed and how you checked its outputs. If you did not use AI, a brief statement confirming that would also clarify the methodology.
 
 ## Priorities for the Final Project
+
+You have a strong research question and a thoughtful computational foundation. For the final project, I would focus on:
 
 - Explain how the fifty games were selected.
 - Treat current amounts as reported guarantees unless stronger evidence supports another label.

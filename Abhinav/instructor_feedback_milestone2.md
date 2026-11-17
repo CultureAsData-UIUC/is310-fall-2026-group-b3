@@ -4,8 +4,6 @@ I really like how this project has developed into an investigation of both athle
 
 The strongest part of the submission is your recognition that a financial total is not a transparent description of where money went. Your fields for `payer_actor`, `recipient_or_beneficiary`, `interpretation`, `financial_relationship`, and `interpretive_limit` attempt to document what a category makes visible and what it obscures. You also correctly keep department expense categories, total football spending, coaching compensation, and NIL estimates conceptually separate rather than adding unlike measures together.
 
-I would not prioritize expanding it to 500–1,000 records. I think the more productive next step would be to investigate how Knight-Newhouse constructs its categories, clarify which comparisons each part of your current sample can support, and verify a strategic subset against the underlying institutional reports.
-
 ## Initial Custom Dataset
 
 The current CSV combines three related but differently sampled bodies of data:
@@ -45,7 +43,7 @@ I agree with your decision not to combine NIL estimates with institutional athle
 
 If you retain NIL data, treat it as a comparison of provenance and representation rather than as directly comparable monetary values. Ask who created each measure, what evidence it uses, what unit it represents, and which forms of payment it excludes. You might preserve NIL as a separate table or analytical subset rather than incorporating it into the institutional spending totals.
 
-This comparison is optional. The existing spending data and Knight-Newhouse audit already provide enough material for the final project.
+This comparison is optional. Decide whether this comparison advances your final question and how it would connect to the expanded spending data and Knight-Newhouse audit.
 
 ## Computation
 
@@ -88,7 +86,7 @@ The scholarship is relevant and already connected to your project decisions. Bot
 
 Your reflection also identifies the central conceptual shift in the project. You began by planning to collect and compare spending figures, but the category definitions made you ask what those numbers actually represent and what relationships remain hidden. That is a strong direction for the final essay. I would develop it through a few concrete records rather than trying to resolve every uncertainty through scale.
 
-I did not see an AI-use statement in the submission. If you used AI for coding, research, writing, or developing categories, the final documentation should explain how it was used and how you checked the outputs. If you did not use AI, a brief statement confirming that would still make the process clear.
+I did not see an AI-use statement in the submission. If you used AI, the final documentation should explain how it was used and how you checked the outputs. If you did not use AI, a brief statement confirming that would still make the process clear.
 
 ## Priorities for the Final Project
 
@@ -103,4 +101,4 @@ For the next stage, I would suggest prioritizing:
 - Building the final analysis from comparable subsets rather than summing or comparing all records together.
 - Adding an AI-use statement.
 
-Overall, this is a strong and thoughtful submission. The project does not need hundreds of additional rows as its most compelling contribution will be showing how athletic spending becomes structured through institutional reports, public-record access, changing definitions, and Knight-Newhouse's categories, and how those structures shape what we can conclude about where the money goes.
+Overall, this is a strong and thoughtful submission. Use the expanded comparisons to show how athletic spending becomes structured through institutional reports, public-record access, changing definitions, and Knight-Newhouse's categories, and how those structures shape what we can conclude about where the money goes.

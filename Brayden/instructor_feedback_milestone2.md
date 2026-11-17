@@ -2,15 +2,11 @@
 
 This is a promising project with substantial technical infrastructure. The central question is strong: what changes when the same institution’s finances are represented through EADA and Knight-Newhouse? I particularly appreciate that you retain both values rather than forcing them into one supposedly correct total. The project recognizes that differences may result from reporting periods, definitions, institutional practices, source coverage, or extraction choices rather than simple error.
 
-I also appreciate your transparency about the AI-assisted code, documentation, and annotations. The most important remaining work is not necessarily expanding the dataset, but demonstrating your own close engagement with selected records and revising the interpretations in your own terms.
-
 ## Initial Custom Dataset
 
 The dataset has a clear structure: each row represents one school, one reporting-period label, and one financial measure. The four measures are total athletic revenue, total athletic expenses, football revenue, and football expenses. Keeping EADA and Knight-Newhouse in separate columns makes the comparison visible without assuming that the two sources measure identical things.
 
 Including all eighteen Big Ten institutions is useful because it preserves problems involving private institutions, recent conference members, and uneven public access rather than silently removing them. The status fields also appropriately distinguish unavailable values from reported zeroes.
-
-I would retain the current 72-record scope. A longer time series would introduce changing definitions, conference realignment, inflation, and additional reporting-period problems before the initial comparison has been fully understood. One carefully audited reporting period is enough for the final project.
 
 ## Computation and Preliminary Analysis
 
@@ -55,7 +51,9 @@ Finally, the README says that the folder has not been uploaded to the group repo
 
 ## Priorities for the Final Project
 
-- Retain the current 72-record scope and prioritize depth over adding more reporting periods.
+You have a strong research question and a thoughtful computational foundation. For the final project, I would focus on:
+
+- Plan and document an expansion across reporting periods or measures after verifying the initial comparison.
 - Manually review a purposive selection of close, divergent, and missing cases.
 - Distinguish extraction checks from independent source verification.
 - Document when values are comparable, comparable with caution, or not comparable.
@@ -66,4 +64,4 @@ Finally, the README says that the folder has not been uploaded to the group repo
 - Write a fuller personal reflection based on your own source review.
 - Update the outdated repository-status language.
 
-Overall, the project has a strong question, a coherent comparative dataset, and sophisticated computational scaffolding. The strongest final version will use a small number of carefully investigated discrepancies to show how reporting systems construct athletic finances differently, rather than automatically expanding to hundreds of additional records.
+Overall, the project has a strong question, a coherent comparative dataset, and sophisticated computational scaffolding. The strongest final version will connect close investigation of selected discrepancies with a documented expansion that tests how those differences recur across reporting periods or measures.
